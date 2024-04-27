@@ -1,0 +1,10 @@
+batch_size: 32
+height: 96
+learning_rate: 0.0005
+max_text_length: 54
+model_path: Models/04_sentence_recognition\202404161623
+train_epochs: 1000
+train_workers: 20
+vocab: "35\xD92\u2039\u0160-\xD8\xAF/0\u2026 \u201E4\xB9\xB26\xB1\xA7\xB5\xB3879\xA6\
+  \xA8\u2020\xAD\xB4\xA3\u02C6\xAE1\xA9\u2021\xAA"
+width: 1408
